@@ -51,8 +51,9 @@
 - 🌐 **Full-Stack Development**: Creating modern web applications
 
 ## 📊 GitHub Stats
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVGS&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVGS&layout=compact&theme=radical)
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=GabrielVGS&theme=radical&show_icons=true&rank_icon=github&number_format=long&custom_title=Github%20Stats&line_height=24&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVGS&theme=radical&layout=compact&langs_count=8&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5&hide=scss,hack,makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Let's Connect!
